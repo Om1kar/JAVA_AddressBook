@@ -7,7 +7,7 @@ public class AddressBook {
 
     Contacts obj = new Contacts();
 
-  public void Contacts() {
+    public void addNewContacts() {
 
         System.out.println("Creating contact");
         System.out.println("Enter First Name");
